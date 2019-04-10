@@ -22,4 +22,6 @@ class Assign6
 		System.out.println("Sum of given No:"+sum);
 
 	}
+	System.out.println("This is my program");
+	System.out.println("Its Ashwini Agarmore");
 } 
