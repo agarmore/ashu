@@ -24,4 +24,6 @@ class Assign6
 	}
 	System.out.println("This is my program");
 	System.out.println("Its Ashwini Agarmore");
+	System.out.println("Its me varsha");
+	System.out.println("Ashwini's partner");
 } 
